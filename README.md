@@ -2,7 +2,7 @@
 
 > Fastest proxy using only nginx as the backend server
 
-<a href="[https://repl.it/github/binary-person/womginx"><img src="https://docs.replit.com/images/repls/run-on-replit.svg](https://github.com/rootleg/womginx/blob/master/public/logo-full.png?raw=true)" alt="Replit" width="150"/></a>
+<a href="[[https://repl.it/github/binary-person/womginx](https://github.com/binary-person/womginx)"><img src="[https://docs.replit.com/images/repls/run-on-replit.svg](https://github.com/binary-person/womginx)](https://github.com/rootleg/womginx/blob/master/public/logo-full.png)" alt="ForkOG" width="150"/></a>
 
 **Before you deploy to Heroku, read the following: Heroku decided that this repository violates the ToS, so directly clicking the button below if you're in the main repository will result in an error. Forked repositories may work, though this is not guaranteed. Regardless, I am NOT responsible if your Heroku account gets suspended because of deploying this application. Proceed at your own risk.**
 
