@@ -6,11 +6,9 @@
 
 **Before you deploy to Heroku, read the following: Heroku decided that this repository violates the ToS, so directly clicking the button below if you're in the main repository will result in an error. Forked repositories may work, though this is not guaranteed. Regardless, I am NOT responsible if your Heroku account gets suspended because of deploying this application. Proceed at your own risk.**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template/a3SMgx?referralCode=Snj0x8)
 
-Demo: https://womginx.arph.org
-
-~~Heroku Docker demo: https://womginx.herokuapp.com~~ taken down for now. If you need one, deploy one using the button above or use the demo link.
+Demo: https://womginx.up.railway.app/
 
 ## Site compatibility
 
